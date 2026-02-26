@@ -8,13 +8,21 @@
 
 ---
 
+## 📺 Uygulama Tanıtımı
+
+Uygulamanın arayüzünü ve temel işleyişini aşağıdaki kısa videodan izleyebilirsiniz:
+
+[![Uygulama Tanıtım Videosu](https://img.youtube.com/vi/-BUT8SMkN_A/0.jpg)](https://www.youtube.com/shorts/-BUT8SMkN_A)
+
+> *Videoyu izlemek için yukarıdaki görsele tıklayın.*
+
+---
+
 ## 🚀 Hızlı Başlangıç (APK Test)
 
 Uygulamanın en güncel halini Android cihazınızda anında test etmek için aşağıdaki butona tıklayarak APK dosyasını indirebilirsiniz:
 
 [![Uygulamayı İndir](https://img.shields.io/badge/İNDİR-(APK)_v1.0.0-26DEBC?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/bDq4Ye89e2XbwwfNdjPvmt.apk)
-
-> ⚠️ **Not:** Kurulum sırasında "Bilinmeyen Kaynaklara İzin Ver" seçeneğini aktif ediniz. Bu yapılandırma Expo EAS altyapısıyla güvenli bir şekilde oluşturulmuştur.
 
 ---
 
@@ -59,12 +67,3 @@ Projeyi yerel ortamınızda çalıştırmak için:
     npx expo start
     ```
 
----
-
-## 🛠️ Gelecek Planları
-- [ ] Su içme hatırlatıcı bildirimler.
-- [ ] Haftalık gelişim raporu (Grafiksel).
-- [ ] Çoklu çocuk profili desteği.
-
----
-*Bu proje, akademik gereksinimler doğrultusunda geliştirilmiştir.*
